@@ -1,0 +1,21 @@
+body{
+    background-image: url(../img/malena-gonzalez-serena-I8JL2ztNmp0-unsplash.jpg);
+    
+    
+}
+    
+table{ 
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    background-repeat: no-repeat;
+
+}
+tr,td,th{
+    border: 2px solid red ;
+    padding: 10px; 
+}
+tr:nth-child(even){
+    color: rgb(19, 19, 226);
+    background-color: aquamarine;
+} 
